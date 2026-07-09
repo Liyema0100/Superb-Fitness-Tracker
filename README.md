@@ -15,7 +15,7 @@ To establish a distinct design identity away from the original group layout, the
 * **Goals & Challenges (`challenges.html`):** A gamified ecosystem handling threshold objectives, responsive motivation parameters, fixed countdown challenges, and dynamic badge unlocking.
 
 ```text
-📂 AuraFit_Project/
+📂 Superb Fitness Tracker/
 ├── 📄 index.html        # Main Entry Point & Workout Logging Hub
 ├── 📄 analytics.html    # Chart.js Data Center & Summary Ribbon
 ├── 📄 challenges.html   # Objective Calibration & Gamification View
